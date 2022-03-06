@@ -29,7 +29,7 @@ pkg install pip
 pkg install pip2
 pip2 install requests
 pip2 install mechanize
-git clone https://github.com/DiaaYasser/M8ror-07/SH-PUBLIC
+git clone https://github.com/DiaaYasser/M8ror.git-07/SH-PUBLIC
 ```
 ## Install on Terminal :
 ```
@@ -41,7 +41,7 @@ apt install pip
 apt install pip2
 pip2 install requests
 pip2 install mechanize
-git clone https://github.com/DiaaYasser/M8ror-07/SH-PUBLIC
+git clone https://github.com/DiaaYasser/M8ror.git-07/SH-PUBLIC
 ```
 
 ## Tools Run :
