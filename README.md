@@ -3,7 +3,7 @@
 # M8ror
 ♥Dark Pirate Complex
 <p align="center">
-<a href="https://github.com/Dark-Cyber-07"><img title="D A R K C Y B E R " src="https://github-readme-stats.vercel.app/api?username=Dark-Cyber-07&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<a href="https://github.com/DiaaYasser"><img title="C  o  v  i  d" src="https://github-readme-stats.vercel.app/api?username=Diaa-Yasser-07&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 
